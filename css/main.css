@@ -10,7 +10,9 @@
 			font-size: 1.75em;
 		}
 
-		
+
+
+
 		/*For large*/
 		@media (min-width: 992px){
 			
@@ -58,6 +60,11 @@
 			section > p:nth-child(2){
 				padding: 30px 10px 10px 10px;
 				clear: right;	
+			}
+
+
+			section:hover{
+				background-color: blue;
 			}
 		}
 
@@ -111,6 +118,10 @@
 				padding: 30px 10px 10px 10px;
 				clear: right;	
 			}
+
+			section:hover{
+				background-color: blue;
+			}
 		}
 
 
@@ -159,5 +170,9 @@
 			section > p:nth-child(2){
 				padding: 30px 10px 10px 10px;
 				clear: right;	
+			}
+
+			section:hover{
+				background-color: blue;
 			}
 		}
