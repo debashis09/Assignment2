@@ -8,12 +8,15 @@
 			text-align: center;
 			padding: 20px;
 			font-size: 1.75em;
+			
 		}
 
 		body{
 			font-family:courier;
 
 		}
+
+
 
 
 		/*For large*/
@@ -57,7 +60,8 @@
 				border-top: 1px solid;
 				border-right: 1px solid;
 				border-color: blue;
-				font-size: 1.25em;	
+				font-size: 1.25em;
+				font-weight: bold;
 			}
 
 			section > p:nth-child(2){
@@ -114,7 +118,8 @@
 				border-top: 1px solid;
 				border-right: 1px solid;
 				border-color: blue;
-				font-size: 1.25em;	
+				font-size: 1.25em;
+				font-weight: bold;	
 			}
 
 			section > p:nth-child(2){
@@ -167,7 +172,8 @@
 				border-top: 1px solid;
 				border-right: 1px solid;
 				border-color: blue;
-				font-size: 1.25em;	
+				font-size: 1.25em;
+				font-weight: bold;	
 			}
 
 			section > p:nth-child(2){
