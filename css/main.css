@@ -10,7 +10,10 @@
 			font-size: 1.75em;
 		}
 
+		body{
+			font-family:courier;
 
+		}
 
 
 		/*For large*/
@@ -64,7 +67,7 @@
 
 
 			section:hover{
-				background-color: blue;
+				background-color: yellow;
 			}
 		}
 
@@ -120,7 +123,7 @@
 			}
 
 			section:hover{
-				background-color: blue;
+				background-color: yellow;
 			}
 		}
 
@@ -173,6 +176,6 @@
 			}
 
 			section:hover{
-				background-color: blue;
+				background-color: yellow;
 			}
 		}
